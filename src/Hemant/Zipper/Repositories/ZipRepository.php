@@ -1,6 +1,6 @@
 <?php
 
-namespace Chumper\Zipper\Repositories;
+namespace Hemant\Zipper\Repositories;
 
 use Exception;
 use ZipArchive;
@@ -17,7 +17,7 @@ class ZipRepository implements RepositoryInterface
      * @param $archive
      *
      * @throws \Exception
-     *
+     *ˀˀ
      * @return ZipRepository
      */
     public function __construct($filePath, $create = false, $archive = null)

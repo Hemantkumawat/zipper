@@ -1,8 +1,8 @@
 <?php
 
-namespace Chumper\Zipper;
+namespace Hemant\Zipper;
 
-use Chumper\Zipper\Repositories\RepositoryInterface;
+use Hemant\Zipper\Repositories\RepositoryInterface;
 
 class ArrayArchive implements RepositoryInterface
 {
